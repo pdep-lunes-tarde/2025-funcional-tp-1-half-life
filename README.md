@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: **2096237** 
 - Nombre: **David Alejandro Gómez Ferreira**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2223065** 
+- Nombre: **Ignacio Nicolas Fileppo**
 
 
 ## Objetivos
