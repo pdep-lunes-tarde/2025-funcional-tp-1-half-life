@@ -2,14 +2,14 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **Half-Life**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2096237** 
+- Nombre: **David Alejandro Gómez Ferreira**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **2223065** 
+- Nombre: **Ignacio Nicolas Fileppo**
 
 
 ## Objetivos
